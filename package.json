@@ -1,6 +1,6 @@
 {
   "name": "mongoose-cursor-paginate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cursor based mongoose pagination",
   "main": "index.js",
   "scripts": {
